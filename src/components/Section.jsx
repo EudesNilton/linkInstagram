@@ -4,8 +4,8 @@ const Section = () => {
   return (
     <section className='section'>
 
-      <a className='s-a' href=""><button>github</button></a>
-      <a className='s-a' href=""><button>portifolio</button></a>
+      <a className='s-a' target="_blank" href="https://github.com/EudesNilton"><button>github</button></a>
+      <a className='s-a' target="_blank"  href="#"><button>portifolio</button></a>
 
     </section>
   )
