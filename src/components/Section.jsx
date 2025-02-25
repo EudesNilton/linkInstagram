@@ -5,7 +5,7 @@ const Section = () => {
     <section className='section'>
 
       <a className='s-a' target="_blank" href="https://github.com/EudesNilton"><button>github</button></a>
-      <a className='s-a' target="_blank"  href="#"><button>portifolio</button></a>
+      <a className='s-a' target="_blank"  href="https://eudesnilton.vercel.app/"><button>portifolio</button></a>
 
     </section>
   )
